@@ -1,0 +1,22 @@
+header {
+    background-image: url(../img/fondoheader.png);
+    text-align: center;
+}
+
+.textoheader {
+    
+
+}
+
+.nike {
+    display: flex;
+    text-align: center;
+}
+
+.img {
+    height: 500px;
+    width: 25%;
+    float: left;
+}
+
+
